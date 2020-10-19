@@ -1,14 +1,12 @@
 # Markdown Previewer
 
 ## Sections
-----
  - [DEMO](#demo)
  - [FEATURES](#features)
  - [TECHNOLOGIES USED](#technologies-used)
  - [DETAILS](#details)
 
 ## Demo
-----
 You can try the previewer yourself: [here](https://chocotacove.github.io/markdown-preview)  or
 https://chocotacove.github.io/markdown-preview
 <div style="display: flex;flex-wrap:wrap; padding: 30px;">
@@ -17,7 +15,6 @@ https://chocotacove.github.io/markdown-preview
 </div>
 
 ## Features
------
 - Mobile friendly
 - Responsive page
 - Markdown will update instantly as you type
@@ -27,14 +24,12 @@ https://chocotacove.github.io/markdown-preview
 - Clear the text area instantly
 
 ## Technologies used
-----
 - JavaScript
 - HTML
 - CSS
 - Marked library to parse the markdown syntax
 
 ## Details
------
 * This project is made with the use of plain HTML, CSS, JavaScript.
 * The marked library is used to parse the written text to HTML and is rendered on the page
 * In-fact, this markdown was written using the previewer :)
