@@ -7,8 +7,8 @@
  - [DETAILS](#details)
 
 ## Demo
-You can try the previewer yourself: [here](https://chocotacove.github.io/markdown-preview)  or
-https://chocotacove.github.io/markdown-preview
+You can try the previewer yourself: [here](https://vshalt.github.io/markdown-preview)  or
+https://vshalt.github.io/markdown-preview
 <div style="display: flex;flex-wrap:wrap; padding: 30px;">
 <img alt="demo" style="margin: 20px; padding: 20px;width: 600px" src="./img/demo1.png">
 <img alt="demo" style="margin: 20px; padding: 20px;width: 600px" src="./img/demo2.png">
